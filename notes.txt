@@ -1,0 +1,8 @@
+Before scrsping always check if there is public API of this web site.
+Then try to see site's source.
+And then just try use Request.
+
+( Then Puppeteer )
+
+ * cheerio - jquery selector inside node.js
+
